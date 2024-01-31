@@ -106,7 +106,7 @@ def create_accounts(driver: AntiDetectDriver, data):
     dob_year = str(account['dob']['year'])
     dob_day = str(account['dob']['day'])
     dob_month = str(account['dob']['month'])
-    account['email'] = username + '@outlook.com'
+    account['email'] = username + '@hotmail.com'
     email = account['email']
 
     def sign_up():

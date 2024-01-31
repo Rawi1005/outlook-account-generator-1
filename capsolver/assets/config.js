@@ -1,6 +1,6 @@
 export const defaultConfig = {
   // API key
-  apiKey: 'KEY',
+  apiKey: 'CAP-5C8167B64E4FB2719623E0BD85AA6D54',
 
   // Your Developer appId, Apply in dashboard's developer section
   appId: '',
